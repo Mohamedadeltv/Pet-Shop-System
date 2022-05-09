@@ -1,0 +1,32 @@
+\\Mac\Home\Desktop\petshopforworkers\petshopforworkers\bin\Debug\petshopforworkers.exe.config
+\\Mac\Home\Desktop\petshopforworkers\petshopforworkers\bin\Debug\petshopforworkers.exe
+\\Mac\Home\Desktop\petshopforworkers\petshopforworkers\bin\Debug\petshopforworkers.pdb
+\\Mac\Home\Desktop\petshopforworkers\petshopforworkers\obj\Debug\petshopforworkers.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\petshopforworkers\petshopforworkers\obj\Debug\petshopforworkers.Form1.resources
+\\Mac\Home\Desktop\petshopforworkers\petshopforworkers\obj\Debug\petshopforworkers.Properties.Resources.resources
+\\Mac\Home\Desktop\petshopforworkers\petshopforworkers\obj\Debug\petshopforworkers.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\petshopforworkers\petshopforworkers\obj\Debug\petshopforworkers.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\petshopforworkers\petshopforworkers\obj\Debug\petshopforworkers.exe
+\\Mac\Home\Desktop\petshopforworkers\petshopforworkers\obj\Debug\petshopforworkers.pdb
+\\Mac\Home\Desktop\petshopforworkers\petshopforworkers\obj\Debug\petshopforworkers.Form2.resources
+\\Mac\Home\Desktop\petshopforworkers\petshopforworkers\obj\Debug\petshopforworkers.Form3.resources
+\\Mac\Home\Desktop\petshopforworkers\petshopforworkers\obj\Debug\petshopforworkers.pricesss.resources
+\\Mac\Home\Desktop\petshopforworkers\petshopforworkers\bin\Debug\Database.mdf
+\\Mac\Home\Desktop\petshopforworkers\petshopforworkers\bin\Debug\Database_log.ldf
+\\Mac\Home\Desktop\petshopforworkers\petshopforworkers\obj\Debug\petshopforworkers.Form4.resources
+\\vmware-host\Shared Folders\Documents\iCollections\uni courses\my whole work\my whole uni projects\petshopforworkers\petshopforworkers\bin\Debug\Database.mdf
+\\vmware-host\Shared Folders\Documents\iCollections\uni courses\my whole work\my whole uni projects\petshopforworkers\petshopforworkers\bin\Debug\Database_log.ldf
+\\vmware-host\Shared Folders\Documents\iCollections\uni courses\my whole work\my whole uni projects\petshopforworkers\petshopforworkers\bin\Debug\petshopforworkers.exe.config
+\\vmware-host\Shared Folders\Documents\iCollections\uni courses\my whole work\my whole uni projects\petshopforworkers\petshopforworkers\bin\Debug\petshopforworkers.exe
+\\vmware-host\Shared Folders\Documents\iCollections\uni courses\my whole work\my whole uni projects\petshopforworkers\petshopforworkers\bin\Debug\petshopforworkers.pdb
+\\vmware-host\Shared Folders\Documents\iCollections\uni courses\my whole work\my whole uni projects\petshopforworkers\petshopforworkers\obj\Debug\petshopforworkers.csproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\iCollections\uni courses\my whole work\my whole uni projects\petshopforworkers\petshopforworkers\obj\Debug\petshopforworkers.Form1.resources
+\\vmware-host\Shared Folders\Documents\iCollections\uni courses\my whole work\my whole uni projects\petshopforworkers\petshopforworkers\obj\Debug\petshopforworkers.Form2.resources
+\\vmware-host\Shared Folders\Documents\iCollections\uni courses\my whole work\my whole uni projects\petshopforworkers\petshopforworkers\obj\Debug\petshopforworkers.Form3.resources
+\\vmware-host\Shared Folders\Documents\iCollections\uni courses\my whole work\my whole uni projects\petshopforworkers\petshopforworkers\obj\Debug\petshopforworkers.Form4.resources
+\\vmware-host\Shared Folders\Documents\iCollections\uni courses\my whole work\my whole uni projects\petshopforworkers\petshopforworkers\obj\Debug\petshopforworkers.pricesss.resources
+\\vmware-host\Shared Folders\Documents\iCollections\uni courses\my whole work\my whole uni projects\petshopforworkers\petshopforworkers\obj\Debug\petshopforworkers.Properties.Resources.resources
+\\vmware-host\Shared Folders\Documents\iCollections\uni courses\my whole work\my whole uni projects\petshopforworkers\petshopforworkers\obj\Debug\petshopforworkers.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Documents\iCollections\uni courses\my whole work\my whole uni projects\petshopforworkers\petshopforworkers\obj\Debug\petshopforworkers.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\iCollections\uni courses\my whole work\my whole uni projects\petshopforworkers\petshopforworkers\obj\Debug\petshopforworkers.exe
+\\vmware-host\Shared Folders\Documents\iCollections\uni courses\my whole work\my whole uni projects\petshopforworkers\petshopforworkers\obj\Debug\petshopforworkers.pdb
